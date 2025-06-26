@@ -1,4 +1,4 @@
 # link-uyarisi
 
 
-bilmediğin linklere tıklama oe
+# bilmediğin linklere tıklama oe
